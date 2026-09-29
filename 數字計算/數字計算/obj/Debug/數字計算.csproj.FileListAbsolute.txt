@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\數字計算\數字計算\bin\Debug\數字計算.exe.config
+C:\Users\user\Desktop\數字計算\數字計算\bin\Debug\數字計算.exe
+C:\Users\user\Desktop\數字計算\數字計算\bin\Debug\數字計算.pdb
+C:\Users\user\Desktop\數字計算\數字計算\obj\Debug\數字計算.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\數字計算\數字計算\obj\Debug\數字計算.Form1.resources
+C:\Users\user\Desktop\數字計算\數字計算\obj\Debug\數字計算.Properties.Resources.resources
+C:\Users\user\Desktop\數字計算\數字計算\obj\Debug\數字計算.csproj.GenerateResource.cache
+C:\Users\user\Desktop\數字計算\數字計算\obj\Debug\數字計算.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\數字計算\數字計算\obj\Debug\數字計算.exe
+C:\Users\user\Desktop\數字計算\數字計算\obj\Debug\數字計算.pdb
+C:\Users\user\Desktop\數字計算\數字計算\obj\Debug\數字計算.exe.config
