@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\loop\loop\bin\Debug\loop.exe.config
+C:\Users\user\Desktop\loop\loop\bin\Debug\loop.exe
+C:\Users\user\Desktop\loop\loop\bin\Debug\loop.pdb
+C:\Users\user\Desktop\loop\loop\obj\Debug\loop.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\loop\loop\obj\Debug\loop.Form1.resources
+C:\Users\user\Desktop\loop\loop\obj\Debug\loop.Properties.Resources.resources
+C:\Users\user\Desktop\loop\loop\obj\Debug\loop.csproj.GenerateResource.cache
+C:\Users\user\Desktop\loop\loop\obj\Debug\loop.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\loop\loop\obj\Debug\loop.exe
+C:\Users\user\Desktop\loop\loop\obj\Debug\loop.pdb
+C:\Users\user\Desktop\loop\loop\obj\Debug\loop.exe.config
