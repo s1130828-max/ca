@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\吃豆人\吃豆人\bin\Debug\吃豆人.exe.config
+C:\Users\user\Desktop\吃豆人\吃豆人\bin\Debug\吃豆人.exe
+C:\Users\user\Desktop\吃豆人\吃豆人\bin\Debug\吃豆人.pdb
+C:\Users\user\Desktop\吃豆人\吃豆人\obj\Debug\吃豆人.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\吃豆人\吃豆人\obj\Debug\吃豆人.Form1.resources
+C:\Users\user\Desktop\吃豆人\吃豆人\obj\Debug\吃豆人.Properties.Resources.resources
+C:\Users\user\Desktop\吃豆人\吃豆人\obj\Debug\吃豆人.csproj.GenerateResource.cache
+C:\Users\user\Desktop\吃豆人\吃豆人\obj\Debug\吃豆人.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\吃豆人\吃豆人\obj\Debug\吃豆人.exe
+C:\Users\user\Desktop\吃豆人\吃豆人\obj\Debug\吃豆人.pdb
+C:\Users\user\Desktop\吃豆人\吃豆人\obj\Debug\吃豆人.exe.config
