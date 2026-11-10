@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\溫度\溫度\bin\Debug\溫度.exe.config
+C:\Users\user\Desktop\溫度\溫度\bin\Debug\溫度.exe
+C:\Users\user\Desktop\溫度\溫度\bin\Debug\溫度.pdb
+C:\Users\user\Desktop\溫度\溫度\obj\Debug\溫度.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\溫度\溫度\obj\Debug\溫度.Form1.resources
+C:\Users\user\Desktop\溫度\溫度\obj\Debug\溫度.Properties.Resources.resources
+C:\Users\user\Desktop\溫度\溫度\obj\Debug\溫度.csproj.GenerateResource.cache
+C:\Users\user\Desktop\溫度\溫度\obj\Debug\溫度.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\溫度\溫度\obj\Debug\溫度.exe
+C:\Users\user\Desktop\溫度\溫度\obj\Debug\溫度.pdb
+C:\Users\user\Desktop\溫度\溫度\obj\Debug\溫度.exe.config
