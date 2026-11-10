@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\問卷調查\問卷調查\bin\Debug\問卷調查.exe.config
+C:\Users\user\Desktop\問卷調查\問卷調查\bin\Debug\問卷調查.exe
+C:\Users\user\Desktop\問卷調查\問卷調查\bin\Debug\問卷調查.pdb
+C:\Users\user\Desktop\問卷調查\問卷調查\obj\Debug\問卷調查.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\問卷調查\問卷調查\obj\Debug\問卷調查.Form1.resources
+C:\Users\user\Desktop\問卷調查\問卷調查\obj\Debug\問卷調查.Properties.Resources.resources
+C:\Users\user\Desktop\問卷調查\問卷調查\obj\Debug\問卷調查.csproj.GenerateResource.cache
+C:\Users\user\Desktop\問卷調查\問卷調查\obj\Debug\問卷調查.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\問卷調查\問卷調查\obj\Debug\問卷調查.exe
+C:\Users\user\Desktop\問卷調查\問卷調查\obj\Debug\問卷調查.pdb
+C:\Users\user\Desktop\問卷調查\問卷調查\obj\Debug\問卷調查.exe.config
